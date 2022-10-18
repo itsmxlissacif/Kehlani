@@ -1,0 +1,21 @@
+img {
+    height: 300px;   
+}
+.kehlani {
+    display:flex;
+} 
+img 
+{  
+   display:flex;
+
+    margin: 15px;
+    padding: 15px;
+}
+p.solid {border-style:solid; 
+} 
+.text {
+    border: solid black 4px;
+}  
+
+
+
